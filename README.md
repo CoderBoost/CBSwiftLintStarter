@@ -1,1 +1,1 @@
-# CBSwiftLintStarter
+# SwiftLint Starter
