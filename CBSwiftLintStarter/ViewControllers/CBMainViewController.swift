@@ -33,8 +33,8 @@ class CBMainViewController: CBBaseViewController, CBTeamDisplayViewDelegate {
     configureNavBar()
     teamDisplayView = CBTeamDisplayView()
     setInitialTeam(teamDisplayView: teamDisplayView)
-    setDelegates()
     configureTableView()
+    setDelegates()
     layoutComponentViews()
   }
   
